@@ -18,8 +18,8 @@ describe('logShout(string)', function() {
   })
 })
 
-function logShout ('hello') {
-  console.log('hello').toUpperCase()
+function logShout ("hello") {
+  console.log("hello").toUpperCase()
 }
 
 
