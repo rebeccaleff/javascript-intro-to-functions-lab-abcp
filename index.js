@@ -20,7 +20,7 @@ function sayHiToGrandma (string) {
     var string === string.uppercase
     var string === "I love you, Grandma."
   }
-  then 
+  then
     return ("I can't hear you!")
     return ("YES INDEED")
     return ("I love you, too.")
